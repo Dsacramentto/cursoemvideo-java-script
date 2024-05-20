@@ -1,0 +1,30 @@
+body{
+    font: normal 15pt Arial;
+    text-shadow: 1px 1px 2px black;
+}
+
+main{
+    text-align: center;
+    margin-top: 13rem;
+}
+
+h1{
+    display: inline-flex;
+}
+
+.orange{
+    color: orange;
+}
+
+button{
+    display: inline-block;
+    margin: 0 auto 0 auto;
+    font-size: 15pt;
+    padding: 15pt;
+    border-radius: 1em;
+    border-color: orange;
+}
+
+button:hover{
+    background-color: rgb(184, 183, 183);
+}

@@ -1,0 +1,38 @@
+body{
+    width: 1000px;
+    background-color: rgb(129, 69, 129);
+    color: white;
+    font: normal 15pt Arial;
+}
+
+h1{
+    display: inline;
+    text-shadow: 2px 2px 3px black;
+}
+
+div{
+    width: 900px;
+    text-align: center;
+    margin-left: 10em;
+    margin-top: 15rem;
+}
+
+.orange{
+    color: rgb(240, 182, 75);
+}
+
+button{
+    display: block;
+    margin: 5px auto auto auto;
+    padding: 15pt;
+    font: normal 15pt Arial;
+    color: white;
+    background-color: rgb(73, 30, 73);
+    border-color: rgb(245, 178, 53);
+    border-radius: 4em;
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color: rgb(110, 67, 110);
+}

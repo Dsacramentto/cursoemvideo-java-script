@@ -1,0 +1,9 @@
+body{
+    font: 12pt Arial;
+    display: block;
+}
+
+.botao1, .botao2, .botao3{
+    font-size: 13pt;
+    padding: 15px;
+}

@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(96, 96, 165);
+    color: white;
+    font: 12pt Arial;
+}
+
+.botao1, .botao2{
+    font-size: 13pt;
+    padding: 10pt;
+    border-radius: 1rem;
+    transition: 0.3s;
+    background-color: transparent;
+    color: white;
+    border-color: rgb(141, 141, 211);;
+}
+
+.botao1:hover{
+    background-color: rgb(141, 141, 211);
+}
+
+
+.botao2:hover{
+    background-color: rgb(141, 141, 211);
+    color: white;
+    border-color: rgb(141, 141, 211);
+}
+
+h1, h2{
+    color: rgb(255, 212, 22);
+}
+
+code{
+    font-weight: bold;
+}

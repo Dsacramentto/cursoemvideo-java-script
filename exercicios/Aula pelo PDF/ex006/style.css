@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+body{
+    font: normal 15pt Arial
+}
+
+main{
+    min-width: 250px;
+    text-align: center;
+}
+
+h1{
+    display: inline-flex;
+    margin: 15rem 0 0 0;
+    text-shadow: 2px 2px 2px black;
+}
+
+.orange{
+    color: orange;
+}
+
+button{
+    display: block;
+    margin: 15px auto 15px auto;
+    padding: 15pt;
+    font-size: 14pt;
+    border-radius: 1rem;
+    border-color: orange;
+    transition: 0.2s;
+}
+
+button:hover{
+    background-color: rgb(196, 195, 195);
+}

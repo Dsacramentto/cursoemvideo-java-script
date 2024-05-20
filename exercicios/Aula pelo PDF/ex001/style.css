@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(129, 69, 129);
+    color: white;
+    font: normal 14pt Arial;
+    margin: auto;
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+    display: inline;
+    text-shadow:  1px 1px 2px black;
+}
+
+#orange{
+    color: rgb(243, 177, 55);  
+    text-shadow:  1px 1px 2px black; /* deslocamento-x | deslocamento-y | raio-de-desfoque | cor */
+ /* text-shadow: 5px 10px;  Usa o padrão para cor e raio-de-desfoque */
+}
